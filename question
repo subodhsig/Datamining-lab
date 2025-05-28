@@ -1,0 +1,17 @@
+lab 1
+Extract the price history of ten commercial banks from the given api.
+https://www.nepalipaisa.com/api/GetStockHistory?stockSymbol=ADBL&fromDate=2025-04-19&toDate=2025-05-19&pageNo=1&itemsPerPage=10&pagePerDisplay=5&_=1747618698241
+
+Save the data in .csv format.
+Clean the data if necessary.
+Convert the daily to weekly format and plot it.
+Convert the data to monthly format and plot it.
+Calculate the following technical indicators from the data and plot them.
+Moving Average
+Weighted Moving Average
+RSI
+OBV
+CCI
+
+You can use the programming language of your choice.
+
