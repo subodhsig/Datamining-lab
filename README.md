@@ -1,1 +1,2 @@
 lab file
+data minig 
